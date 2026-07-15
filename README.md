@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="StudentHub Banner">
+</p>
+
 # 🎓 StudentHub
 
 A modern Full Stack Student Management System built using **React.js, Node.js, Express.js and SQLite**.
