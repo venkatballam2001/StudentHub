@@ -1,0 +1,18 @@
+.student-details-container {
+  width: 500px;
+  margin: auto;
+  margin-top: 60px;
+  background-color: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0,0,0,0.15);
+}
+
+.student-details-container h1 {
+  margin-bottom: 20px;
+}
+
+.student-details-container p {
+  font-size: 20px;
+  margin: 20px 0;
+}
